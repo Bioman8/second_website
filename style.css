@@ -4,10 +4,10 @@ body {
 }
 p{
     font-family: Montserrat;
-    font-size: 14 px;
+    font-size: 14 px; 
 }
 #wlcm, .d1{
-    text-align:center;
+    text-align:center; 
 }
 .alink{
     text-decoration:none;
