@@ -6,3 +6,10 @@ p{
     font-family: Montserrat;
     font-size: 14 px;
 }
+#wlcm{
+    text-align:center;
+}
+.alink{
+    text-decoration:none;
+    color:black;
+}
