@@ -17,3 +17,7 @@ p{
     text-decoration:none;
     color:black;
 }
+
+th, td, tr{
+    border:2px solid black;
+}
